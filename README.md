@@ -4,7 +4,7 @@ Executar passando dois arquivos JSON como parâmetro, o conteúdo do segundo par
 
 JSON de exemplos est
 
-##TODO
+## TODO
 
 - Receber mais de dois arquivos para realizar o merge
 - Implementar testes
